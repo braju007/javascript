@@ -19,4 +19,4 @@ const divisibleByTwo = nums.myFilter((num, i, arr) => {
 });
 
 console.log(divisibleByTwo);
-// [ 3, 6, 9, 12 ]
+// [ 2, 4 ]
